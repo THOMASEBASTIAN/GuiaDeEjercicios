@@ -17,3 +17,8 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina ejerc
     Realiza un WOD (Workout of the Day) que incluya una variedad de ejercicios como levantamientos, saltos, y carreras.
 
     Enfría con estiramientos y ejercicios de respiración.
+#Consejos
+
+    Mantén una forma adecuada para evitar lesiones.
+
+    Escala los ejercicios según tu nivel de condición física.
