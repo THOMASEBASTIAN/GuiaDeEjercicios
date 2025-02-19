@@ -16,4 +16,8 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
     Realiza estiramientos estáticos o dinámicos, manteniendo cada estiramiento durante 15-30 segundos.
 
     Enfócate en todos los grupos musculares principales.
+##Consejos
 
+    No rebotes durante los estiramientos.
+
+    Respira profundamente y relájate durante cada estiramiento
