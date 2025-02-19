@@ -13,3 +13,11 @@
 
     Reduce el riesgo de lesiones en actividades diarias.
 
+##Instrucciones
+
+    Calienta con ejercicios cardiovasculares ligeros.
+
+    Realiza ejercicios como sentadillas, zancadas, y levantamientos que imiten movimientos cotidianos.
+
+    Completa 3 series de 10-15 repeticiones.
+
