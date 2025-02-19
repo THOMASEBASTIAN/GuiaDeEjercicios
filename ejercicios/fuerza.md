@@ -22,3 +22,7 @@ Los ejercicios de fuerza implican el uso de resistencia para estimular la contra
     Completa 3 series de 8-12 repeticiones para cada ejercicio.
 
     Enfría con estiramientos suaves.
+#CONSEJOS
+    Mantén una forma adecuada para evitar lesiones.
+
+    Incrementa gradualmente la resistencia o el peso.
