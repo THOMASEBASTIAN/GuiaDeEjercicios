@@ -11,3 +11,10 @@ El ciclismo es un ejercicio cardiovascular que se realiza en bicicleta, ya sea a
     Fortalece las piernas y el núcleo.
 
     Ayuda a quemar calorías.
+#Instrucciones
+
+    Calienta pedaleando a un ritmo suave durante 5-10 minutos.
+
+    Aumenta la intensidad, alternando entre periodos de alta y baja intensidad.
+
+    Enfría con un pedaleo suave y estiramientos.
