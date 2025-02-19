@@ -13,3 +13,12 @@ Los ejercicios de fuerza implican el uso de resistencia para estimular la contra
 
     Acelera el metabolismo.
 
+###Instrucciones
+
+    Calienta durante 5-10 minutos con ejercicios cardiovasculares ligeros.
+
+    Realiza ejercicios como levantamiento de pesas, sentadillas, o flexiones, enfocándote en diferentes grupos musculares.
+
+    Completa 3 series de 8-12 repeticiones para cada ejercicio.
+
+    Enfría con estiramientos suaves.
