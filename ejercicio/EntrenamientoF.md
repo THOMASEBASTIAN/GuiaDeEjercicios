@@ -20,4 +20,8 @@
     Realiza ejercicios como sentadillas, zancadas, y levantamientos que imiten movimientos cotidianos.
 
     Completa 3 series de 10-15 repeticiones.
+##Consejos
 
+    Enfócate en la forma y el control.
+
+    Usa pesos libres o bandas de resistencia para aumentar la intensidad.
