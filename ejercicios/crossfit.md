@@ -10,4 +10,10 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina ejerc
     Aumenta la flexibilidad y la coordinación.
 
     Quema calorías de manera eficiente.
+#Instrucciones
 
+    Calienta con ejercicios dinámicos y estiramientos.
+
+    Realiza un WOD (Workout of the Day) que incluya una variedad de ejercicios como levantamientos, saltos, y carreras.
+
+    Enfría con estiramientos y ejercicios de respiración.
