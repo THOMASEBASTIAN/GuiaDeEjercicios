@@ -15,3 +15,8 @@ El boxeo es un deporte de combate que combina ejercicios cardiovasculares y de f
     Realiza combinaciones de golpes en un saco de boxeo o con un compañero.
 
     Completa rondas de 3 minutos con descansos de 1 mi
+#Consejos
+
+    Usa vendas y guantes para proteger tus manos.
+
+    Mantén una postura adecuada y protege tu cara.
