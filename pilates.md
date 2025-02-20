@@ -18,3 +18,8 @@ Instrucciones
     Realiza ejercicios como el "hundred", "roll-up", y "single-leg stretch".
 
     Completa 3 series de 10-15 repeticiones.
+Consejos
+
+    Mantén un control y una respiración adecuada.
+
+    Usa una colchoneta o equipo especializado si es necesario.
