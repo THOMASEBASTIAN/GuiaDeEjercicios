@@ -13,5 +13,6 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Natación](ejercicio/Natacion.md): Trabaja todos los grupos musculares de manera suave.
 - [Ejercicio de Boxeo](ejercicio/Boxeo.md): Mejora la coordinación y la resistencia.
 - [Ejercicio de CrossFit](ejercicio/crossfit.md): Entrenamiento intensivo y funcional.
+- [Ejercicio de pilates](ejercicio/pilates.md): El pilates es un sistema de ejercicios que se centra en fortalecer el núcleo
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
